@@ -21,11 +21,11 @@ Jupyter Notebook: A detailed notebook providing insights into the theory of deep
 Trained Model: The pre-trained model ready for clothing classification.
 
 Usage
-Clone the repository: git clone https://github.com/yourusername/your-repo.git
+Clone the repository,
 Install dependencies: pip install -r requirements.txt
-Open and run the Jupyter Notebook: jupyter notebook Clothing_Classification.ipynb
+Open and run the Jupyter Notebook: jupyter notebook CNN.ipynb
 Upload an image to classify the clothing item.
 Feel free to explore the notebook to understand the implementation details, experiment with dropout rates, early stopping, and observe the impact on model performance.
 
 Acknowledgments
-Special thanks to [Dataset Source] for providing the clothing dataset used for model training.
+Special thanks to Alexey Grigorev for providing valuable insights and guidance through the "Machine Learning Bootcamp" book. This project drew inspiration from the concepts presented in the book, and while it is not a 100% copy, the teachings and methodologies significantly influenced the development of the clothing classification model.
